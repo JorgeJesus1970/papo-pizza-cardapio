@@ -1,0 +1,20 @@
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários e backups
+*.log
+*.tmp
+*.bak
+
+# Configurações de editores (VSCode, Sublime, etc)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Caso use algum gerador futuro (ex: npm)
+node_modules/
+dist/
+.env
